@@ -5,7 +5,7 @@ from hoshino.typing import NoticeSession, CQHttpError
 
 sv1 = Service('group-leave-notice', help_='退群通知')
 
-@sv1.on_notice('group_decrease.leave')
+#@sv1.on_notice('group_decrease.leave')
 async def leave_notice(session: NoticeSession):
     ev = session.event
     name = ev.user_id

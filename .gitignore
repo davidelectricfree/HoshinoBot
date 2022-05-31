@@ -1,4 +1,6 @@
+@@ -1,137 +1,159 @@
 # Config Files
+﻿# Config Files
 config.py
 config.json
 hoshino/config/
@@ -19,8 +21,29 @@ images/
 hoshino/modules/pcrclanbattle/clanbattlev3
 hoshino/modules/pcrclanbattle/clanbattlev4
 hoshino/modules/umamusume
-hoshino/modules/pcrjjc3-tw
+hoshino/modules/image_generator
+hoshino/modules/bf_record_search
+hoshino/modules/yiqing_HoshinoBot
+hoshino/modules/travelpolicy_HoshinoBot
+hoshino/modules/novel_ai_kai
+hoshino/modules/genshin_calendar
+hoshino/modules/genshinkfc
+hoshino/modules/music
+hoshino/modules/Genshin_Impact_bot
+hoshino/modules/aichat
+hoshino/modules/egenshin
+hoshino/modules/groupmaster
+hoshino/modules/groupmaster/chat.py
+hoshino/modules/heweather
+hoshino/modules/genshinUID
+hoshino/modules/rss
 _git/
+
+# start
+start.bat
+requirements_back.txt
+pyproject.toml
+
 
 # log
 log/
